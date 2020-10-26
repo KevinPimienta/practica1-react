@@ -1,0 +1,9 @@
+.Header{
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    color: #fff;
+    width: 100px;
+    height:100px;
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practica1-react/static/css/main.7ba0674c.chunk.css",
+    "main.js": "/practica1-react/static/js/main.53491afd.chunk.js",
+    "main.js.map": "/practica1-react/static/js/main.53491afd.chunk.js.map",
+    "runtime-main.js": "/practica1-react/static/js/runtime-main.449c18e3.js",
+    "runtime-main.js.map": "/practica1-react/static/js/runtime-main.449c18e3.js.map",
+    "static/js/2.701d5b01.chunk.js": "/practica1-react/static/js/2.701d5b01.chunk.js",
+    "static/js/2.701d5b01.chunk.js.map": "/practica1-react/static/js/2.701d5b01.chunk.js.map",
+    "static/js/3.ebb69b5b.chunk.js": "/practica1-react/static/js/3.ebb69b5b.chunk.js",
+    "static/js/3.ebb69b5b.chunk.js.map": "/practica1-react/static/js/3.ebb69b5b.chunk.js.map",
+    "index.html": "/practica1-react/index.html",
+    "static/css/main.7ba0674c.chunk.css.map": "/practica1-react/static/css/main.7ba0674c.chunk.css.map",
+    "static/js/2.701d5b01.chunk.js.LICENSE.txt": "/practica1-react/static/js/2.701d5b01.chunk.js.LICENSE.txt",
+    "static/media/logotec.da78bd05.jpg": "/practica1-react/static/media/logotec.da78bd05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449c18e3.js",
+    "static/js/2.701d5b01.chunk.js",
+    "static/css/main.7ba0674c.chunk.css",
+    "static/js/main.53491afd.chunk.js"
+  ]
+}
